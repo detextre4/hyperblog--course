@@ -7,3 +7,10 @@ body {
 p {
   rotate: x 30deg;
 }
+
+#cabecera {
+  background-color: blueviolet;
+  border: 1px solid black;
+  box-shadow: inset 2px 2px 4px 2px rgba(0,0,0.2);
+  border-radius: 15px;
+}
