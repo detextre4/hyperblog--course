@@ -10,7 +10,7 @@ p {
 }
 
 #cabecera {
-  background-color: blueviolet;
+  background-color: rgb(82, 6, 153);
   border: 1px solid black;
   box-shadow: inset 2px 2px 4px 2px rgba(0,0,0.2);
   border-radius: 15px;
